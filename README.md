@@ -1,10 +1,12 @@
 # Simple voting app
 
-Simple voting app created using jquery, Web3.js, Solidity, and Truffle. This should run in an Ethereum blockchain.
+Simple voting app created using jquery, Web3.js, Solidity, and ganache-cli. This should run in an Ethereum blockchain.
 
 To download project dependencies (except ganache-cli), run this command in a terminal
 <br />
 `npm install`
+<br />
+Project dependecies include solc and web3.
 
 To setup a blockchain dev environment for this, follow instructions here:
 <br />
