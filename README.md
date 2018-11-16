@@ -6,7 +6,7 @@ To download project dependencies (except ganache-cli), run this command in a ter
 <br />
 `npm install`
 
-To setup a dev environment for this, follow instructions here:
+To setup a blockchain dev environment for this, follow instructions here:
 <br />
 [Blockchain notes - How to setup Ethereum using Truffle and Ganache](https://bit.ly/2qryleP1)
 
