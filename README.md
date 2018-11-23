@@ -10,6 +10,6 @@ Project dependecies include solc and web3.
 
 To setup a blockchain dev environment for this, follow instructions here:
 <br />
-[Blockchain notes - How to setup Ethereum using Truffle and Ganache](https://bit.ly/2qryleP1)
+[Blockchain notes - How to setup Ethereum using Truffle and Ganache](https://bit.ly/2qryleP)
 
 Once Ganache is up, run truffle.
